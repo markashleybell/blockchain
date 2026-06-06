@@ -1,0 +1,10 @@
+# Blockchain
+
+Minimal blockchain implementation in F#.
+
+## References
+
+- https://www.investopedia.com/terms/p/proof-stake-pos.asp
+- https://www.investopedia.com/terms/p/proof-work.asp
+- https://www.section.io/engineering-education/how-to-create-a-blockchain-in-python/
+- https://www.section.io/engineering-education/an-introduction-to-blockchain-architecture/#mining-and-proof-of-work
