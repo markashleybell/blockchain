@@ -1,6 +1,5 @@
 <Query Kind="FSharpProgram">
   <Namespace>System.Security.Cryptography</Namespace>
-  <RuntimeVersion>6.0</RuntimeVersion>
 </Query>
 
 // https://towardsdatascience.com/building-a-minimal-blockchain-in-python-4f2e9934101d
